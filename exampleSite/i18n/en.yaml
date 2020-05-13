@@ -8,10 +8,10 @@
 - id: share
   translation: 分享-Share
 - id: aboutAuthor
-  translation: About author
+  translation: 关于-About author
 - id: authorsPosts
-  translation: Author's posts
+  translation: 作者-Author's posts
 - id: submit
-  translation: Submit
+  translation: 提交-Submit
 - id: all
-  translation: All
+  translation: 全部-All
