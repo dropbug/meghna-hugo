@@ -1,5 +1,6 @@
+---
 - id: blogTitle
-  translation: Latest Post
+  translation: 最新-Latest Post
 - id: readMore
   translation: Read more
 - id: viewAllPost
