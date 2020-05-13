@@ -1,4 +1,4 @@
-baseURL = "https://bopingda.netlify.com"
+baseURL = "https://bopingda.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
